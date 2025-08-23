@@ -10,7 +10,9 @@ public class BookingController {
                 Email__c	= Email
             ); Pramod Demo TO Ramya bhargavi
 
-            fjgaeruvhbsvuredsuvjn
+            sjfkdhvasfdkvbkS
+            mshdgsdhbcsv|
+            kjsdvcgbchb
         
         // Insert the Booking record
         insert newBooking;
