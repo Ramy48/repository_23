@@ -8,7 +8,7 @@ public class BookingController {
                 destinantionstation__c = Destination,
                 Phone__c = Phone,
                 Email__c	= Email
-        );
+            ); Pramod Demo TO Ramya bhargavi
         
         // Insert the Booking record
         insert newBooking;
